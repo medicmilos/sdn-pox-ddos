@@ -1,2 +1,2 @@
 # sdn-pox-ddos-python
-College project on master studies
+SDN threat in the form of a DDoS attack
